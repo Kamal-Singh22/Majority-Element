@@ -7,4 +7,4 @@ It assumes there's always a majority element.
 
 It maintains a counter and resets the candidate if the counter hits zero.
 
-The final candidate is the majority.
+The final candidate is the majority.....
